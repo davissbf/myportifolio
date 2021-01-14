@@ -1,6 +1,6 @@
 {
   "name": "myportifolio",
-  "homepage": "https://github.com/davissbf",
+  "homepage": "./",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
